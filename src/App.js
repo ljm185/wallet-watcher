@@ -19,6 +19,7 @@ function App() {
           Learn React
         </a>
       </header>
+      Congratulations! You have x hundreds, x fifties, x twenties, x tens, x fives, x singles, x quarters, x dimes, x nickels, and x pennies!
     </div>
   );
 }
