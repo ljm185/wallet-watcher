@@ -19,7 +19,11 @@ function App() {
           Learn React
         </a>
       </header>
-      Congratulations! You have x hundreds, x fifties, x twenties, x tens, x fives, x singles, x quarters, x dimes, x nickels, and x pennies!
+      <p>Wallet Watcher</p>
+
+      <p>Because even your wallet only deserves a little bit of change.</p> 
+
+      <p>Congratulations! You have x hundreds, x fifties, x twenties, x tens, x fives, x singles, x quarters, x dimes, x nickels, and x pennies!</p>
     </div>
   );
 }
