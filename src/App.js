@@ -23,6 +23,8 @@ function App() {
 
       <p>Because even your wallet only deserves a little bit of change.</p> 
 
+      <p>Convert your balance into the least amount of money!</p>
+
       <p>Congratulations! You have x hundreds, x fifties, x twenties, x tens, x fives, x singles, x quarters, x dimes, x nickels, and x pennies! Way to go!</p>
     </div>
   );
