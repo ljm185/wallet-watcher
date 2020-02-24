@@ -19,7 +19,7 @@ function App() {
           Learn React
         </a>
       </header> */}
-      <p>Wallet Watcher</p>
+      <p>The Wallet Watcher!</p>
 
       <p>Because even your wallet only deserves a little bit of change.</p> 
 
@@ -27,7 +27,7 @@ function App() {
 
       <p>Congratulations! You have x hundreds, x fifties, x twenties, x tens, x fives, x singles, x quarters, x dimes, x nickels, and x pennies! Way to go!</p>
 
-      <p>Try Again</p>
+      <p>Try Again?</p>
     </div>
   );
 }
