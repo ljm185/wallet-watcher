@@ -19,7 +19,7 @@ function App() {
           Learn React
         </a>
       </header> */}
-      <p>The Wallet Watcher</p>
+      <p>The Wallet Watcher!</p>
 
       <p>Because even your wallet only deserves a little bit of change.</p> 
 
