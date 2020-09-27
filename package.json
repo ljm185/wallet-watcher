@@ -10,7 +10,8 @@
     "minimist": ">=1.2.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.3.0"
+    "react-scripts": "3.3.0",
+    "node-forge": ">=0.10.0"
   },
   "scripts": {
     "start": "react-scripts start",
